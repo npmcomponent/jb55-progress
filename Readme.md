@@ -2,7 +2,7 @@
 
   Simple progress bars
   
-  [demo](jb55.github.com/progress)
+  [demo](http://jb55.github.com/progress)
 
 ## Unstyled Screenshot
 
