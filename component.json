@@ -1,0 +1,22 @@
+{
+  "name": "progress",
+  "repo": "jb55/progress",
+  "description": "Simple progress bar component",
+  "version": "0.0.1",
+  "keywords": ["bars", "progress", "progressbar"],
+  "dependencies": {
+    "jb55/has-class": "*"
+  },
+  "development": {
+    "component/map": "*",
+    "component/each": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "progress.css"
+  ]
+}
