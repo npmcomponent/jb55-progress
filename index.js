@@ -1,5 +1,5 @@
 
-var hasClass = require('has-class');
+var hasClass = require('jb55-has-class');
 
 module.exports = Progress;
 
